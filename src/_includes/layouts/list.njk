@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+---
+<div class="page list-page">
+  <h1>{{ title }}</h1>
+  {{ content | safe }}
+
+  {% if collections[tagName] and collections[tagName].length %}
+  <ul class="entry-list">
+    {% for item in collections[tagName] | reverse %}
+    <li class="entry-item">
+      <a class="entry-title" href="{{ item.url }}">{{ item.data.title }}</a>
+      {% if item.data.dateLabel %}<div class="mono entry-date">{{ item.data.dateLabel }}</div>{% elif item.data.date %}<div class="mono entry-date">{{ item.date | dateFormat }}</div>{% endif %}
+      {% if item.data.summary %}<p class="entry-summary">{{ item.data.summary }}</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% elif emptyLabel %}
+  <p class="mono">{{ emptyLabel }}</p>
+  {% endif %}
+</div>

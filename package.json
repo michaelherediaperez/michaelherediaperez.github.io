@@ -1,0 +1,16 @@
+{
+  "name": "michaelherediaperez.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Página académica y profesional de Michael Heredia Pérez",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "katex": "^0.16.11",
+    "markdown-it": "^14.1.0",
+    "markdown-it-texmath": "^1.0.0"
+  }
+}
