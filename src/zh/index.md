@@ -14,7 +14,9 @@ Python 开发方面积累了经验，同时也从事研究和大学教学工作�
 
 ### 教育背景
 
-<div class="cv-item">
+<ul class="pub-list">
+
+<li>
 
 **土木工程博士**
 
@@ -28,9 +30,9 @@ Python 开发方面积累了经验，同时也从事研究和大学教学工作�
 
 导师：[Sergio Reyes](https://civileng.tongji.edu.cn/civilengen/33708/list.htm) 教授
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **工程硕士（结构方向）**
 
@@ -42,9 +44,9 @@ Python 开发方面积累了经验，同时也从事研究和大学教学工作�
 
 导师：[Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) 与 [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **结构工程专业学位**
 
@@ -52,9 +54,9 @@ Python 开发方面积累了经验，同时也从事研究和大学教学工作�
 
 <span class="mono">2022</span>
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **土木工程学士**
 
@@ -62,11 +64,15 @@ Python 开发方面积累了经验，同时也从事研究和大学教学工作�
 
 <span class="mono">2017–2022</span>
 
-</div>
+</li>
+
+</ul>
 
 ### 工作经历
 
-<div class="cv-item">
+<ul class="pub-list">
+
+<li>
 
 **讲师**
 
@@ -76,9 +82,9 @@ Python 开发方面积累了经验，同时也从事研究和大学教学工作�
 
 教授连续介质力学、固体力学与结构分析课程
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **土木工程师**
 
@@ -88,9 +94,9 @@ ASD Construcciones SAS
 
 负责文档管理与工程预算
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **联合创始人兼秘书长**
 
@@ -98,4 +104,6 @@ ASD Construcciones SAS
 
 <span class="mono">2021年8月 – 2023年9月</span>
 
-</div>
+</li>
+
+</ul>

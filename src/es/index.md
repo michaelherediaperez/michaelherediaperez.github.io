@@ -16,7 +16,9 @@ elastómeros y su modelación experimental y computacional.
 
 ### Formación
 
-<div class="cv-item">
+<ul class="pub-list">
+
+<li>
 
 **Doctorado en Ingeniería Civil**
 
@@ -30,9 +32,9 @@ Tema: Aprendizaje automático multiescala informado por la física para elastóm
 
 Director: Prof. [Sergio Reyes](https://civileng.tongji.edu.cn/civilengen/33708/list.htm)
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Maestría en Ingeniería – Estructuras**
 
@@ -44,9 +46,9 @@ Tesis meritoria: *A state-of-the-art review of the Bouc–Wen model and hysteres
 
 Directores: [Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) y [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Especialización en Estructuras**
 
@@ -54,9 +56,9 @@ Universidad Nacional de Colombia
 
 <span class="mono">2022</span>
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Ingeniería Civil**
 
@@ -64,11 +66,15 @@ Universidad Nacional de Colombia
 
 <span class="mono">2017–2022</span>
 
-</div>
+</li>
+
+</ul>
 
 ### Experiencia
 
-<div class="cv-item">
+<ul class="pub-list">
+
+<li>
 
 **Docente**
 
@@ -78,9 +84,9 @@ Universidad Nacional de Colombia
 
 Cursos de Mecánica del Medio Continuo, Mecánica de Sólidos y Análisis Estructural
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Ingeniero civil**
 
@@ -90,9 +96,9 @@ ASD Construcciones SAS
 
 Gestión documental y presupuestos de obra
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Cofundador y secretario general**
 
@@ -100,4 +106,6 @@ Corporación para el Desarrollo Ambiental Integral (CODAIN)
 
 <span class="mono">ago. 2021 – sep. 2023</span>
 
-</div>
+</li>
+
+</ul>

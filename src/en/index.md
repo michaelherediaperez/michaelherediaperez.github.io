@@ -16,7 +16,9 @@ their experimental and computational modeling.
 
 ### Education
 
-<div class="cv-item">
+<ul class="pub-list">
+
+<li>
 
 **PhD in Civil Engineering**
 
@@ -30,9 +32,9 @@ Topic: Multi-Scale Physics-Informed Machine Learning for Elastomers and Developm
 
 Supervisor: Prof. [Sergio Reyes](https://civileng.tongji.edu.cn/civilengen/33708/list.htm)
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Master in Engineering – Structures**
 
@@ -44,9 +46,9 @@ Meritorious thesis: *A state-of-the-art review of the Bouc–Wen model and hyste
 
 Supervisors: [Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) and [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Specialist in Structures**
 
@@ -54,9 +56,9 @@ Universidad Nacional de Colombia
 
 <span class="mono">2022</span>
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Civil Engineer**
 
@@ -64,11 +66,15 @@ Universidad Nacional de Colombia
 
 <span class="mono">2017–2022</span>
 
-</div>
+</li>
+
+</ul>
 
 ### Experience
 
-<div class="cv-item">
+<ul class="pub-list">
+
+<li>
 
 **Lecturer**
 
@@ -78,9 +84,9 @@ Universidad Nacional de Colombia
 
 Taught Continuum Mechanics, Solid Mechanics, and Structural Analysis
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Civil Engineer**
 
@@ -90,9 +96,9 @@ ASD Construcciones SAS
 
 Document management and construction budgeting
 
-</div>
+</li>
 
-<div class="cv-item">
+<li>
 
 **Co-founder and General Secretary**
 
@@ -100,4 +106,6 @@ Corporación para el Desarrollo Ambiental Integral (CODAIN)
 
 <span class="mono">Aug 2021 – Sep 2023</span>
 
-</div>
+</li>
+
+</ul>

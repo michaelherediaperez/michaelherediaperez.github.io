@@ -19,7 +19,7 @@ body {
   color: var(--color-text);
   font-family: var(--font-serif);
   font-size: 1.0625rem;
-  line-height: 1.75;
+  line-height: 1.55;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -133,7 +133,12 @@ a:hover {
 }
 
 .page p {
-  margin: 1.1em 0;
+  margin: 0.9em 0;
+}
+
+/* Chinese text needs a little more air between lines */
+html:lang(zh) body {
+  line-height: 1.7;
 }
 
 .page blockquote {
