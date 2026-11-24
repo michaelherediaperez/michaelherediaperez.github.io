@@ -4,45 +4,100 @@ title: Inicio
 
 ## Michael Heredia Pérez
 
-*Ingeniero civil, M.Sc. · Mecánica de sólidos y estructuras · Manizales, Colombia*
-
 Soy ingeniero civil con formación en mecánica de medios continuos y mecánica
 computacional. Tengo experiencia en programación científica y desarrollo en
-Python, así como en investigación y docencia universitaria. Me interesa
-explorar las aplicaciones del aprendizaje automático y la inteligencia
-artificial en la ingeniería. Actualmente me preparo para iniciar un doctorado
-en China.
+Python, así como en investigación y docencia universitaria. Actualmente curso
+un doctorado en Tongji University, donde estudio la mecánica de los
+elastómeros y su modelación experimental y computacional.
+
+### Intereses de investigación
+
+<p class="centered">Histéresis, Mecánica de sólidos, Elastómeros, Modelado basado en datos, Mecánica computacional, Python e IA</p>
 
 ### Formación
 
-- **Maestría en Ingeniería - Estructuras**, Universidad Nacional de Colombia
-  (2022–2025). Tesis meritoria: *A state-of-the-art review of the Bouc–Wen
-  model and hysteresis characterization through sparse regression
-  techniques*. Promedio acumulado: 4.7/5.0.
-- **Especialización en Estructuras**, Universidad Nacional de Colombia
-  (2022). Promedio acumulado: 4.5/5.0.
-- **Ingeniería Civil**, Universidad Nacional de Colombia (2017–2022).
-  Promedio acumulado: 4.6/5.0.
+<div class="cv-item">
+
+**Doctorado en Ingeniería Civil**
+
+Tongji University, College of Civil Engineering (同济大学, 土木工程学院)
+
+[Department of Disaster Mitigation for Structures](https://ddms.tongji.edu.cn/ddmsen/main.htm) (结构防灾减灾工程系)
+
+<span class="mono">2026–2030</span>
+
+Tema: Aprendizaje automático multiescala informado por la física para elastómeros y desarrollo de nuevos sistemas de protección sísmica
+
+Director: Prof. [Sergio Reyes](https://civileng.tongji.edu.cn/civilengen/33708/list.htm)
+
+</div>
+
+<div class="cv-item">
+
+**Maestría en Ingeniería – Estructuras**
+
+Universidad Nacional de Colombia
+
+<span class="mono">2022–2025</span>
+
+Tesis meritoria: *A state-of-the-art review of the Bouc–Wen model and hysteresis characterization through sparse regression techniques*
+
+Directores: [Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) y [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
+
+</div>
+
+<div class="cv-item">
+
+**Especialización en Estructuras**
+
+Universidad Nacional de Colombia
+
+<span class="mono">2022</span>
+
+</div>
+
+<div class="cv-item">
+
+**Ingeniería Civil**
+
+Universidad Nacional de Colombia
+
+<span class="mono">2017–2022</span>
+
+</div>
 
 ### Experiencia
 
-- **Docente**, Universidad Nacional de Colombia (ago. 2022 – may. 2026).
-  Cursos de Mecánica del Medio Continuo, Mecánica de Sólidos y Análisis
-  Estructural.
-- **Ingeniero civil**, ASD Construcciones SAS (dic. 2025 – jul. 2026).
-  Gestión documental y presupuestos de obra.
-- **Cofundador y secretario general**, Corporación para el Desarrollo
-  Ambiental Integral – CODAIN (ago. 2021 – sep. 2023).
+<div class="cv-item">
 
-### Líneas de interés
+**Docente**
 
-- Caracterización de histéresis en sistemas estructurales (modelo de
-  Bouc–Wen).
-- Ecuaciones diferenciales ordinarias universales guiadas por la física.
-- Aplicaciones del aprendizaje automático y la inteligencia artificial en la
-  ingeniería.
+Universidad Nacional de Colombia
 
-### Contacto rápido
+<span class="mono">ago. 2022 – may. 2026</span>
 
-- **Correo:** [mherediap@unal.edu.co](mailto:mherediap@unal.edu.co)
-- **LinkedIn:** [linkedin.com/in/michael-heredia-perez](https://linkedin.com/in/michael-heredia-perez)
+Cursos de Mecánica del Medio Continuo, Mecánica de Sólidos y Análisis Estructural
+
+</div>
+
+<div class="cv-item">
+
+**Ingeniero civil**
+
+ASD Construcciones SAS
+
+<span class="mono">dic. 2025 – jun. 2026</span>
+
+Gestión documental y presupuestos de obra
+
+</div>
+
+<div class="cv-item">
+
+**Cofundador y secretario general**
+
+Corporación para el Desarrollo Ambiental Integral (CODAIN)
+
+<span class="mono">ago. 2021 – sep. 2023</span>
+
+</div>

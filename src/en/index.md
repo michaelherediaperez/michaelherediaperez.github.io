@@ -4,43 +4,100 @@ title: Home
 
 ## Michael Heredia Pérez
 
-*Civil Engineer, M.Sc. · Structural and Solid Mechanics · Manizales, Colombia*
-
 I am a structural engineer with training in continuum and computational
 mechanics. I have experience in scientific programming and Python
-development, as well as in research and university teaching. I am
-interested in finding out more about the applications of machine learning
-and artificial intelligence in the field of engineering. I am currently
-preparing to start a PhD in China.
-
-### Education
-
-- **Master in Engineering - Structures**, Universidad Nacional de Colombia
-  (2022–2025). Meritorious thesis: *A state-of-the-art review of the
-  Bouc–Wen model and hysteresis characterization through sparse regression
-  techniques*. Cumulative grade: 4.7/5.0.
-- **Specialist in Structures**, Universidad Nacional de Colombia (2022).
-  Cumulative grade: 4.5/5.0.
-- **Civil Engineer**, Universidad Nacional de Colombia (2017–2022).
-  Cumulative grade: 4.6/5.0.
-
-### Experience
-
-- **Lecturer**, Universidad Nacional de Colombia (Aug 2022 – May 2026).
-  Taught Continuum Mechanics, Solid Mechanics, and Structural Analysis.
-- **Civil Engineer**, ASD Construcciones SAS (Dec 2025 – Jul 2026). Document
-  management and construction budgeting.
-- **Co-founder and General Secretary**, Corporación para el Desarrollo
-  Ambiental Integral (CODAIN) (Aug 2021 – Sep 2023).
+development, as well as in research and university teaching. I am currently
+pursuing a PhD at Tongji University, studying the mechanics of elastomers and
+their experimental and computational modeling.
 
 ### Research interests
 
-- Hysteresis characterization in structural systems (Bouc–Wen model).
-- Physics-guided universal ordinary differential equations.
-- Machine learning and artificial intelligence applications in
-  engineering.
+<p class="centered">Hysteresis, Solid Mechanics, Elastomers, Data-Driven Modeling, Computational Mechanics, Python and AI</p>
 
-### Quick contact
+### Education
 
-- **Email:** [mherediap@unal.edu.co](mailto:mherediap@unal.edu.co)
-- **LinkedIn:** [linkedin.com/in/michael-heredia-perez](https://linkedin.com/in/michael-heredia-perez)
+<div class="cv-item">
+
+**PhD in Civil Engineering**
+
+Tongji University, College of Civil Engineering (同济大学, 土木工程学院)
+
+[Department of Disaster Mitigation for Structures](https://ddms.tongji.edu.cn/ddmsen/main.htm) (结构防灾减灾工程系)
+
+<span class="mono">2026–2030</span>
+
+Topic: Multi-Scale Physics-Informed Machine Learning for Elastomers and Development of Novel Earthquake Protection Systems
+
+Supervisor: Prof. [Sergio Reyes](https://civileng.tongji.edu.cn/civilengen/33708/list.htm)
+
+</div>
+
+<div class="cv-item">
+
+**Master in Engineering – Structures**
+
+Universidad Nacional de Colombia
+
+<span class="mono">2022–2025</span>
+
+Meritorious thesis: *A state-of-the-art review of the Bouc–Wen model and hysteresis characterization through sparse regression techniques*
+
+Supervisors: [Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) and [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
+
+</div>
+
+<div class="cv-item">
+
+**Specialist in Structures**
+
+Universidad Nacional de Colombia
+
+<span class="mono">2022</span>
+
+</div>
+
+<div class="cv-item">
+
+**Civil Engineer**
+
+Universidad Nacional de Colombia
+
+<span class="mono">2017–2022</span>
+
+</div>
+
+### Experience
+
+<div class="cv-item">
+
+**Lecturer**
+
+Universidad Nacional de Colombia
+
+<span class="mono">Aug 2022 – May 2026</span>
+
+Taught Continuum Mechanics, Solid Mechanics, and Structural Analysis
+
+</div>
+
+<div class="cv-item">
+
+**Civil Engineer**
+
+ASD Construcciones SAS
+
+<span class="mono">Dec 2025 – Jun 2026</span>
+
+Document management and construction budgeting
+
+</div>
+
+<div class="cv-item">
+
+**Co-founder and General Secretary**
+
+Corporación para el Desarrollo Ambiental Integral (CODAIN)
+
+<span class="mono">Aug 2021 – Sep 2023</span>
+
+</div>

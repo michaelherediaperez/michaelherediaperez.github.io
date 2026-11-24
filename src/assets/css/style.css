@@ -47,16 +47,16 @@ a:hover {
 .header-inner {
   max-width: var(--content-width);
   margin: 0 auto;
-  padding: 1.75rem 1.5rem 1.25rem;
+  padding: 1.25rem 1.5rem 1.25rem;
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.75rem 1.5rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
+  line-height: 1.6;
 }
 
 .site-title {
-  font-size: 1.05rem;
+  font-size: 1.25rem;
   font-weight: 700;
   color: var(--color-text);
   text-decoration: none;
@@ -92,7 +92,7 @@ a:hover {
 }
 .lang-switch a {
   color: var(--color-muted);
-  padding: 0.1rem 0.15rem;
+  padding: 0 0.15rem;
 }
 .lang-switch a.active {
   color: var(--color-accent);
@@ -158,6 +158,44 @@ a:hover {
   background: #fafafa;
   padding: 0.1em 0.35em;
   border-radius: 3px;
+}
+
+.page .centered {
+  text-align: center;
+}
+
+/* CV-style items: one fact per line */
+
+.cv-item {
+  margin: 1.4rem 0;
+}
+
+.cv-item p {
+  margin: 0.1em 0;
+}
+
+.cv-item p:first-child {
+  font-size: 1.05em;
+}
+
+/* Publication lists: one square bullet per entry */
+
+.pub-list {
+  margin: 1.5rem 0;
+}
+
+.pub-list li {
+  margin: 1.6rem 0;
+}
+
+.pub-list li p {
+  margin: 0.25em 0;
+  color: var(--color-muted);
+}
+
+.pub-list li p:first-child {
+  font-size: 1.15rem;
+  color: var(--color-text);
 }
 
 .katex-display {

@@ -38,9 +38,10 @@ src/es/
 └── contacto/index.md    → Contacto
 ```
 
-`src/en/` y `src/zh/` contienen por ahora una página de "en construcción"; más
-adelante se traduce el mismo contenido usando esta misma estructura de
-carpetas.
+`src/en/` y `src/zh/` tienen la misma estructura con el contenido traducido
+(carpetas `essays/`, `publications/`, `talks/`, `teaching/` y `contact/`).
+Cada idioma usa sus propias etiquetas de colección (por ejemplo
+`publications-en`), definidas en el archivo `.json` de cada carpeta.
 
 ## Cómo agregar un nuevo ensayo, publicación, presentación o clase
 

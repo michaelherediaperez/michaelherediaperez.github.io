@@ -1,17 +1,17 @@
 <header class="site-header">
   <div class="header-inner">
+    <nav class="lang-switch" aria-label="Language">
+      {% for l in site.languages %}<a href="{{ l.url }}"{% if l.code == lang %} class="active" aria-current="true"{% endif %}>{{ l.label }}</a>{% endfor %}
+    </nav>
+
     <a class="site-title" href="/{{ lang }}/">{{ site.title }}</a>
 
-    <nav class="main-nav" aria-label="Navegación principal">
+    <nav class="main-nav" aria-label="Menu">
       <ul>
         {% for item in nav[lang] %}
         <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
         {% endfor %}
       </ul>
-    </nav>
-
-    <nav class="lang-switch" aria-label="Selector de idioma">
-      {% for l in site.languages %}<a href="{{ l.url }}"{% if l.code == lang %} class="active" aria-current="true"{% endif %}>{{ l.label }}</a>{% endfor %}
     </nav>
   </div>
 </header>
