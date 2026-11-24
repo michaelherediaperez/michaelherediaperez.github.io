@@ -42,7 +42,7 @@ Python 开发方面积累了经验，同时也从事研究和大学教学工作�
 
 优秀硕士论文：*A state-of-the-art review of the Bouc–Wen model and hysteresis characterization through sparse regression techniques*
 
-导师：[Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) 与 [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
+导师：[Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) 教授与 [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz) 教授
 
 </li>
 

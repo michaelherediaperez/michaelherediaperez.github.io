@@ -44,7 +44,7 @@ Universidad Nacional de Colombia
 
 Meritorious thesis: *A state-of-the-art review of the Bouc–Wen model and hysteresis characterization through sparse regression techniques*
 
-Supervisors: [Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) and [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
+Supervisors: Prof. [Diego Andrés Álvarez Marín](https://diegoandresalvarez.github.io/) and Prof. [Daniel Bedoya Ruiz](https://www.researchgate.net/profile/Daniel-Bedoya-Ruiz)
 
 </li>
 
