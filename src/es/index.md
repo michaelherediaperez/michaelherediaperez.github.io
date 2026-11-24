@@ -14,7 +14,7 @@ elastómeros y su modelación experimental y computacional.
 
 <p class="centered">Histéresis, Mecánica de sólidos, Elastómeros, Modelado basado en datos, Mecánica computacional, Python e IA</p>
 
-### Formación
+### Educación
 
 <ul class="pub-list">
 
@@ -70,7 +70,7 @@ Universidad Nacional de Colombia
 
 </ul>
 
-### Experiencia
+### Experiencia profesional
 
 <ul class="pub-list">
 
@@ -100,11 +100,41 @@ Gestión documental y presupuestos de obra
 
 <li>
 
+**Estudiante auxiliar**
+
+Universidad Nacional de Colombia
+
+<span class="mono">oct. 2023 – nov. 2023</span>
+
+Desarrollo de aplicaciones de software para la recolección de datos en campo en zonas geotécnicamente inestables
+
+Participación en el desarrollo y análisis de bases de datos sobre procesos de inestabilidad geotécnica
+
+</li>
+
+<li>
+
 **Cofundador y secretario general**
 
 Corporación para el Desarrollo Ambiental Integral (CODAIN)
 
 <span class="mono">ago. 2021 – sep. 2023</span>
+
+</li>
+
+<li>
+
+**Estudiante auxiliar**
+
+Universidad Nacional de Colombia
+
+<span class="mono">mar. 2021 – may. 2023</span>
+
+Desarrollo de la interfaz gráfica de GBD_MoMa Database Manager, aplicación de escritorio para monitorear movimientos en masa a lo largo del corredor del oleoducto Ocensa
+
+Diseño e implementación de una base de datos relacional para el seguimiento de movimientos en masa, integrada a la plataforma GBD_MoMa
+
+Python, SQL, JSON, Tk y GitHub
 
 </li>
 

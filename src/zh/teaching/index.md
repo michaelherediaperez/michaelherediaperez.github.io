@@ -50,7 +50,9 @@ title: 教学
 
 西班牙语 ParaView 教程及静力学核心内容的补充讲解
 
-[YouTube 教程](https://www.youtube.com/@michaelherediaperez5490)
+[ParaView | 课程教程](https://youtube.com/playlist?list=PLFB8R5rtkrDoJWhLYrmrPbKHzdbmpts3c&si=GeLy8ObH34o1t56k)
+
+[ParaView | 西班牙语简短示例](https://youtube.com/playlist?list=PLFB8R5rtkrDqluqmM86Py9xJSOXWsRhOY&si=AOtgrjMsJ6JsG00f)
 
 [GitHub 仓库](https://github.com/michaelherediaperez/ParaView)
 

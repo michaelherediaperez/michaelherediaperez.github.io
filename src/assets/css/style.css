@@ -183,6 +183,45 @@ html:lang(zh) body {
   font-size: 1.05em;
 }
 
+/* Contact: small mono labels + values, block centered on the page */
+
+.contact {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  gap: 0.9rem 2.5rem;
+  width: fit-content;
+  max-width: 100%;
+  margin: 2.5rem auto;
+}
+
+.contact dt {
+  font-family: var(--font-mono);
+  font-size: 0.82em;
+  color: var(--color-muted);
+  letter-spacing: 0.01em;
+  line-height: 1.9;
+}
+
+.contact dd {
+  margin: 0;
+}
+
+.contact .sep {
+  color: var(--color-muted);
+  padding: 0 0.35rem;
+}
+
+@media (max-width: 560px) {
+  .contact {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .contact dt {
+    margin-top: 1.1rem;
+    line-height: 1.5;
+  }
+}
+
 /* Publication lists: one square bullet per entry */
 
 .pub-list {

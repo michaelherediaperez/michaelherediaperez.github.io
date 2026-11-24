@@ -50,7 +50,9 @@ Teaching assistant for Finite Element Applications (2020b) and Statics (2020a), 
 
 Spanish-language ParaView tutorial and supplementary lectures on core Statics topics
 
-[Tutorial on YouTube](https://www.youtube.com/@michaelherediaperez5490)
+[ParaView | Course tutorial](https://youtube.com/playlist?list=PLFB8R5rtkrDoJWhLYrmrPbKHzdbmpts3c&si=GeLy8ObH34o1t56k)
+
+[ParaView | Short examples in Spanish](https://youtube.com/playlist?list=PLFB8R5rtkrDqluqmM86Py9xJSOXWsRhOY&si=AOtgrjMsJ6JsG00f)
 
 [GitHub Repository](https://github.com/michaelherediaperez/ParaView)
 

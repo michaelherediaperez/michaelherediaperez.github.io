@@ -20,7 +20,7 @@ A state-of-the-art review of the Bouc-Wen class model of hysteresis: Origin, evo
 
 </ul>
 
-### Memorias de congresos
+### Memorias de conferencias
 
 <ul class="pub-list">
 

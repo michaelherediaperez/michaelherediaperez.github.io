@@ -50,7 +50,9 @@ Monitor de Aplicaciones de Elementos Finitos (2020b) y Estática (2020a), Univer
 
 Tutorial de ParaView en español y clases de refuerzo sobre los temas centrales de Estática
 
-[Tutorial en YouTube](https://www.youtube.com/@michaelherediaperez5490)
+[ParaView | Tutorial del curso](https://youtube.com/playlist?list=PLFB8R5rtkrDoJWhLYrmrPbKHzdbmpts3c&si=GeLy8ObH34o1t56k)
+
+[ParaView | Ejemplos cortos en español](https://youtube.com/playlist?list=PLFB8R5rtkrDqluqmM86Py9xJSOXWsRhOY&si=AOtgrjMsJ6JsG00f)
 
 [Repositorio GitHub](https://github.com/michaelherediaperez/ParaView)
 

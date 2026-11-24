@@ -70,7 +70,7 @@ Universidad Nacional de Colombia
 
 </ul>
 
-### Experience
+### Professional Experience
 
 <ul class="pub-list">
 
@@ -100,11 +100,41 @@ Document management and construction budgeting
 
 <li>
 
+**Project Assistant**
+
+Universidad Nacional de Colombia
+
+<span class="mono">Oct 2023 – Nov 2023</span>
+
+Development of software applications for field data collection in geotechnically unstable areas
+
+Participation in the development and analysis of databases on geotechnical instability processes
+
+</li>
+
+<li>
+
 **Co-founder and General Secretary**
 
 Corporación para el Desarrollo Ambiental Integral (CODAIN)
 
 <span class="mono">Aug 2021 – Sep 2023</span>
+
+</li>
+
+<li>
+
+**Project Assistant**
+
+Universidad Nacional de Colombia
+
+<span class="mono">Mar 2021 – May 2023</span>
+
+Developed the GUI of the GBD_MoMa Database Manager, a desktop application used to monitor mass movements along the Ocensa pipeline corridor
+
+Designed and implemented a relational database for tracking mass movements, integrated with the GBD_MoMa platform
+
+Python, SQL, JSON, Tk, and GitHub
 
 </li>
 
